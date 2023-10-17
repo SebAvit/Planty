@@ -11,9 +11,10 @@
 
 ?>
 
-<footer id="site-footer" class="header-footer-group">
-              <p>Mentions légales<p>
-        </footer><!-- #site-footer -->
+	<footer id="site-footer" class="header-footer-group">
+		<p>Mentions légales<p>
+			<img src="img/footer.png" alt="">
+	</footer><!-- #site-footer -->
 
 <?php wp_footer(); ?>
 
