@@ -63,8 +63,6 @@
 					)
 					);				
 			}
-
-
 			
 			?>
 		</nav><!-- #site-navigation -->
