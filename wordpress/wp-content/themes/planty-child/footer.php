@@ -13,7 +13,7 @@
 
 	<footer id="site-footer" class="header-footer-group">
 		<?php if(!is_page(50)) {
-			echo '<img src="http://localhost/Planty/Planty/wordpress/wp-content/uploads/2023/10/Mask-group-1.png" alt="">';
+			echo '<img src="http://localhost/Planty/Planty/wordpress/wp-content/uploads/2023/10/Mask-group-1.png" alt="Canettes de différentes tailles" class="footer">';
 		} ?>
 		<p>Mentions légales<p>
 	</footer><!-- #site-footer -->
